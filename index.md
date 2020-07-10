@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: "ötmeyen horozun çöplüğü."
 ---
 <h1>Son Yazılar</h1>
 
