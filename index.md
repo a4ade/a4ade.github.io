@@ -2,6 +2,12 @@
 layout: default
 title: "ötmeyen horozun çöplüğü."
 ---
+
+<style>
+.btn-github {
+  display:none !important;
+  }  
+</style>
 <h1>Son Yazılar</h1>
 
 <ul>
