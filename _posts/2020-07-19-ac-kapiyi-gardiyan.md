@@ -38,7 +38,7 @@ Geçen gün otobüste kulaklık takılı şarkı modundayken ineceğim durağa y
 
 Youtube Türkiye tam olarak ahır yeminle bak. Arada önüme düşüyor video başlıklarına bakıyorum "Dünyanın en acı biberini yedim" , "1000tlye döner yedim" gibi başlıklar paso. Lan yediysen sen yedin ben bunu niye izliyim aq? Daha ilginci bunu izleyip zevk alan var mı? Andavalın biri kameranın karşısında yemek yiyor yada video açıp "selam dostlar şimdi bu videoyu izleyip gülmeyecem" diye 20 dakika video çekiyor. Bir grup diğer andaval da bunları izliyor. olm siz şaka mısınız aq? Hayatta hiç mi tutunacağınız şeyler yok , hiç mi bir uğraşınız sorumluluğunuz yok? Hadi küçük yaştakiler izliyor da ülkede o kadar küçük nüfus yok bunları aranızda izleyenler var. Nabıyonuz olm siz? 
 
-## 2. Sikilen Kuşun Davası Olmaz
+## 3. Sikilen Kuşun Davası Olmaz
 
 En sevdiğim konuya geldik. Küfür ederken sesimin yüksek desibelinin kulaklarınızda yaratacağı zarardan ben sorumlu değilim.
 
