@@ -15,7 +15,7 @@ bugün birden çok konuya değinicem ama bu jekyll'de nasıl kategori vs yapıl�
 Bu blogta metasploit nasıl kullanılır , frida ile ssl pinning nasıl bypass edilir , sqlmapa nasıl tamper verilir gibi dolu dolu konular olmayacağını önceden belirtmek isterim. Kafam basmıyor o kadarına benim.
 
 ## 1. Kitap Yorumu
-![](https://i.hizliresim.com/wiBPSc.jpg | width=100)
+![](https://i.hizliresim.com/wiBPSc.jpg)
 
 Bu romalı yakışıklı abimiz Romalı bir köle. Hayatı boyunca tek aradığı şey içsel huzur , içsel huzuru nerede bulurum nasıl bulurum üzerine kafasının etini yiyip bitiriyor. En sonunda vardığı kanıları da bu şekilde kitap haline getiriyor. Kitap kafamdaki doluluk beni yanıltmıyorsa 86 sayfa civarındaydı bir oturuşta bitirilebilecek bi kitap ama 86 sayfası da dolu bir kitap. Epiktetos dayıyla tanrı konusunda kafamız çok uyuşmasa da içsel huzur konusunda bir çok konuda güzel noktalara dokunmuş beni bile gazlamayı başarmıştır. Kitaptan hoşuma giden bir yeri şöyle bırakayım;
 
