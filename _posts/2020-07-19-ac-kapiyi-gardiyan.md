@@ -20,10 +20,14 @@ Bu blogta metasploit nasıl kullanılır , frida ile ssl pinning nasıl bypass e
 Bu romalı yakışıklı abimiz Romalı bir köle. Hayatı boyunca tek aradığı şey içsel huzur , içsel huzuru nerede bulurum nasıl bulurum üzerine kafasının etini yiyip bitiriyor. En sonunda vardığı kanıları da bu şekilde kitap haline getiriyor. Kitap kafamdaki doluluk beni yanıltmıyorsa 86 sayfa civarındaydı bir oturuşta bitirilebilecek bi kitap ama 86 sayfası da dolu bir kitap. Epiktetos dayıyla tanrı konusunda kafamız çok uyuşmasa da içsel huzur konusunda bir çok konuda güzel noktalara dokunmuş beni bile gazlamayı başarmıştır. Kitaptan hoşuma giden bir yeri şöyle bırakayım;
 
 ```
-Çocuğunuz, karınız, kocanız ya da çok sevdiğiniz birisi öldü mü? Böyle bir durumda herkes şöyle diyecektir:
-“Bu bir yaşam döngüsüdür. Ölüm olur. Bazı şeyler kaçınılmazdır.” Ama kendi çocuğumuz ya da çok sevdiğimiz birisi öldüğünde ağlamaya eğilimliyizdir.
-“Ne kadar kederliyim. Ne kadar talihsiz bir insanım!” Anımsayın: Bir başkasını ilgilendiren herhangi bir şeyi duyduğunuzda nasıl duygulanmıştınız?
-Kendiniz böyle bir olayla karşılaştığınızda da bu duyguyu taşıyın. Olayları kabullenmesini öğrenin, ölümü de zekanızla kabullenin.
+Çocuğunuz, karınız, kocanız ya da çok sevdiğiniz birisi öldü mü? 
+Böyle bir durumda herkes şöyle diyecektir:
+“Bu bir yaşam döngüsüdür. Ölüm olur. Bazı şeyler kaçınılmazdır.”
+Ama kendi çocuğumuz ya da çok sevdiğimiz birisi öldüğünde ağlamaya eğilimliyizdir.
+“Ne kadar kederliyim. Ne kadar talihsiz bir insanım!”
+Anımsayın: Bir başkasını ilgilendiren herhangi bir şeyi duyduğunuzda nasıl duygulanmıştınız?
+Kendiniz böyle bir olayla karşılaştığınızda da bu duyguyu taşıyın.
+Olayları kabullenmesini öğrenin, ölümü de zekanızla kabullenin.
 ```
 
 Canım ülkemde bu tavrı takındığınızda muhtemelen çevreniz tarafından "senin kalbin taş olmuş , aq duygusuzu" şeklinde linç yersiniz. Yine de epiktetos dayı ufaktan güzel noktaya parmak atmış.
